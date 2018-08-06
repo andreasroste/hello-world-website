@@ -1,2 +1,2 @@
 # hello-world-website
-Basic hello world repo used for testing
+Basic hello world repo used for testing.
