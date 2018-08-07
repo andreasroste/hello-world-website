@@ -7,7 +7,7 @@ app.get('/api', function (req,res) {
 	})
 })
 
-app.get('/:path', function (req,res) {
+app.get('*', function (req,res) {
 	res.status(200).sendFile(__dirname + '/index.html')
 })
 
